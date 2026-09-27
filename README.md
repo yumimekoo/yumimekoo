@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Yumimekoo%20%E2%9C%A8&fontAlign=50&fontAlignY=35&desc=Soft%20Violet%20Code%20Universe&descAlign=50&descAlignY=55&color=0:EDE9FE,50:C4B5FD,100:A78BFA&fontColor=4C1D95" alt="Violet pastel banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=mysa&fontAlign=50&fontAlignY=35&desc=Soft%20Violet%20Code%20Universe&descAlign=50&descAlignY=55&color=0:EDE9FE,50:C4B5FD,100:A78BFA&fontColor=4C1D95" alt="Violet pastel banner" />
 </p>
 
 <p align="center">
